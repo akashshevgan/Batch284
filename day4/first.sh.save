@@ -1,0 +1,7 @@
+for files in `ls *.txt`;
+do
+        echo $files;
+done
+abc.txt
+def.txt
+xyz.txt
