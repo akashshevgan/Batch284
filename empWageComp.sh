@@ -1,3 +1,4 @@
+#!/bin/bash -x
 isparttime=1
 isfulltime=2
 emprateperhr=20
